@@ -34,7 +34,7 @@ ORDER BY
 
 
 <h3> QUESTION 2: What is the most common factor in a motor vehicle collision in Brooklyn? </h3>
-<code>
+<xmp>
  SELECT
   borough,
   contributing_factor_vehicle_1 AS collision_factor,
@@ -49,14 +49,14 @@ GROUP BY
  borough, collision_factor, 1, year
 ORDER BY
   num_collisions DESC
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div class='tableauPlaceholder' id='viz1582908098039' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BrooklynAnalysis&#47;Q2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BrooklynAnalysis&#47;Q2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BrooklynAnalysis&#47;Q2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1582908098039');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   
 
 <h3> QUESTION 3: What is the most common time for a motor vehicle collision in Brooklyn from 2017-07-01? </h3>
-<code>
+<xmp>
 SELECT
   borough,
   EXTRACT(YEAR FROM timestamp) as year, 
@@ -76,7 +76,7 @@ GROUP BY
  borough, collision_factor, 1, year, month, day, tod
 ORDER BY
   num_collisions DESC 
-</code>
+</xmp>
   
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
@@ -104,7 +104,7 @@ ORDER BY
 <div id="tableauViz"></div> 
 
 <h3> Question 5: Collision vehicle by date and time since 2017-09-01 </h3>
- <code> 
+ <xmp> 
 SELECT
   borough, 
   EXTRACT(YEAR FROM timestamp) as year, 
@@ -120,7 +120,7 @@ GROUP BY
   borough, collision_vehicle, 1, year, month, day, tod, timestamp
 ORDER BY
   num_collisions DESC
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
@@ -128,7 +128,7 @@ ORDER BY
   
 <h3> Question 6: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for pedestrians </h3>
  
-<code>
+<xmp>
 WITH totals AS 
 (
     SELECT  borough,
@@ -153,14 +153,14 @@ SELECT borough, month,
 FROM   averages
 WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
 
 <h3> Question 7: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for cyclists </h3>
 
-<code>
+<xmp>
 WITH totals AS 
 (
     SELECT  borough,
@@ -185,7 +185,7 @@ SELECT borough, month,
 FROM   averages
 WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
-</code>
+</xmp>
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
 
@@ -193,7 +193,7 @@ ORDER BY year, month
   
 <h3> Question 8: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for motorists </h3>
 
-<code>
+<xmp>
 WITH totals AS 
 (
     SELECT  borough,
@@ -218,7 +218,7 @@ SELECT borough, month,
 FROM   averages
 WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
@@ -226,7 +226,7 @@ ORDER BY year, month
 
 <h3> Question 9: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for persons </h3>
 
-<code>
+<xmp>
 WITH totals AS 
 (
     SELECT  borough,
@@ -252,7 +252,7 @@ FROM   averages
 WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
 
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
