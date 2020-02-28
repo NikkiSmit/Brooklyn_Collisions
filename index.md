@@ -11,7 +11,7 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
-<code>
+<xmp>
 SELECT
   borough,
   on_street_name,
@@ -25,7 +25,7 @@ GROUP BY
   borough, on_street_name, year
 ORDER BY
   deaths DESC
-</code>
+</xmp>
   
 <!-- Empty div where the viz will be placed -->
 
