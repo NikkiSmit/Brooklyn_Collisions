@@ -84,7 +84,7 @@ ORDER BY
 
 
 <h3> QUESTION 4: What vehicle types responsbile for most accidents? </h3>
-<code>
+<xmp>
 SELECT
   borough,
   vehicle_type_code1 AS collision_vehicle,
@@ -98,7 +98,7 @@ GROUP BY
   borough, collision_vehicle, 1, year
 ORDER BY
   num_collisions DESC
-</code>
+</xmp>
 
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div> 
