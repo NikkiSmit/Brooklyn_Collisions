@@ -81,7 +81,7 @@ ORDER BY
 
 
 
-<h3> QUESTION 4: What vechicle types responsbile for most accidents? </h3>
+<h3> QUESTION 4: What vehicle types responsbile for most accidents? </h3>
 <code>
 SELECT
   borough,
