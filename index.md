@@ -39,7 +39,7 @@ ORDER BY
 
 <h3> QUESTION 2: What is the most common collision factor in a motor vehicle collision in Brooklyn? </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
 The top 3 causes for a motor vehicle collision that resulted in the greatest number of deaths since 2012 are Driver Inattention/Distraction, failure to yield right-of-way and backing unsafely. If we look at the time period 2017-2018, the top 2 causes remain the same.
