@@ -4,8 +4,6 @@ layout: default
 <style>
    p{
      align=”justify”;
-     background:aqua;
-     color:red;
     }
  </style>
 
