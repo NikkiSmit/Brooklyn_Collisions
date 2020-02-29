@@ -345,6 +345,6 @@ In addition, reasecrhers at I.B.M., have devloped what is called 'Smart Passenge
 Lastly, better education and less tolerance of reckless behavior on the roads would be simpler way to fight driver distraction.
 
 <br>
-SOURCE: https://www.nytimes.com/2003/12/26/travel/driving-cars-that-nudge-you-to-drive-more-safely.html
 </p>
+<p> SOURCE: https://www.nytimes.com/2003/12/26/travel/driving-cars-that-nudge-you-to-drive-more-safely.html </p>
 
