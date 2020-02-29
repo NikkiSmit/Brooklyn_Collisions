@@ -17,10 +17,6 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 
 <center><iframe src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
 
-
-<script type="text/javascript" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("RELATED_QUERIES_0", {"comparisonItem":[{"keyword":"/m/0mkz","geo":"GB","time":"today 12-m"},{"keyword":"AI","geo":"GB","time":"today 12-m"}],"category":958,"property":""}, {"exploreQuery":"cat=958&geo=GB&q=%2Fm%2F0mkz,AI&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
-
-
 <xmp>
 SELECT
   borough,
