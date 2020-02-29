@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<style>
+   p{
+     align=”justify”;
+     background:aqua;
+     color:red;
+    }
+ </style>
+
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
  
