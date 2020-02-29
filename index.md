@@ -2,9 +2,11 @@
 layout: default
 ---
 
- <!--   Tableau javascript API   -->
-  <script src="https://public.tableau.com/profile/nikki.smit1659#!/javascri
-  <body onload="initViz();">
+<!-- JS file to enable the JavaScript API. You can point at the
+  version on public.tableau.com, online.tableau.com, or your on-prem Server -->
+<script src="https://www.example.com/javascripts/api/tableau-2.js"></script>
+...
+
 
 <h1> Analyzing data on New York motor vehicle collisions to answer the following question: 
 What are my ideas for reducing accidents in Brooklyn? </h1>
@@ -30,6 +32,9 @@ ORDER BY
   deaths DESC
 </xmp>
   
+  <!-- Empty div where the viz will be placed -->
+<div id="tableauViz"></div>
+
  <!--   Tableau javascript API   -->
   <script src="https://clientreporting.theinformationlab.co.uk/javascri
 
