@@ -37,15 +37,16 @@ ORDER BY
  
 
 
-<h3> QUESTION 2: What is the most common factor in a motor vehicle collision in Brooklyn? </h3>
+<h3> QUESTION 2: What is the most common collision factor in a motor vehicle collision in Brooklyn? </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2/Q2?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
-
+The top 3 causes for a motor vehicle collision that resulted in the greatest number of deaths since 2012 are Driver Inattention/Distraction, failure to yield right-of-way and backing unsafely. If we look at the time period 2017-2018, the top 2 causes remain the same.
  
-</p>
 <br>
+</p>
+
 
 <h3> Code used </h3>
 <xmp>
@@ -66,26 +67,17 @@ ORDER BY
 </xmp>
 
 
-<h3> QUESTION 3.1: What is the most common time for a motor vehicle collision to occur in Brooklyn from 2017-07-01? </h3>
+<h3> QUESTION 3: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01?  </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3/Q3?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
-
-<p> 
-
- 
-</p>
-<br>
-
-
-<h3> QUESTION 3.2: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01? </h3>
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_2/Q32?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_C/Q3_?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
-
+The most common time of day for a motor vehicle collision to occur is at 4pm, which brings in 7.7% of total collisions. If we look at 4pm in the table, we see that the beginning of the week (Mon-Wed) is the most likley time for a collision to occur. Furthermore, when we apply the filter to include only the top three collision factors as discussed above, then 4pm, Monday to Wednesday, still remains the unsafest time as there is a higher chance of being in a motor vehicle collision.
  
-</p>
 <br>
+</p>
+
+
 
 <h3> Code used </h3>
 <xmp>
@@ -114,13 +106,14 @@ ORDER BY
 <h3> QUESTION 4: What vehicle types are responsbile for most accidents? </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4/Q4?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4_15829894499970/Q4?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 <p> 
+It is clear to see that a passenger vehicle and a sport utility/ station wagon are the two main vehicle types responsible for the most number of accidents. Passenger vehicles are responsible for 58.85% of collisions and sport utility/ station wagons are responsible for 24.89% of collisions, over the entire period since 2012. If we filter the data to look at 2017-2018 data, we see the same results (passenger vehicles (53.4%) and sport utility/ station wagons (34.74%)). 
 
- 
-</p>
 <br>
+</p>
+
 
 <h3> Code used </h3>
 <xmp>
@@ -143,13 +136,14 @@ ORDER BY
 <h3> Question 5: Collision vehicle by time of day since 2017-09-01 </h3>
 
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5/Q5?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5_15829902547950/Q5?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
 
 <p> 
-
+In the graph above, the yellow line respresents passenger vehicles and the red line represents sport utility/ station wagons. These two vehicle types are clearly distinguishable from the other types of vehicles when it comes to bringing in the most number of collisions and the peak time for these collisions to occur is between 4-5pm. 
  
-</p>
 <br>
+</p>
+
 
 <h3> Code used </h3>
  <xmp> 
@@ -177,10 +171,11 @@ ORDER BY
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6/Pedestrians?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
 
 <p> 
-
+November to January as well as July have the highest monthly averages of pedestrian deaths, with 2015 being the worst year yet, having a yearly average of 46 deaths. 
  
-</p>
 <br>
+</p>
+
 
 <h3> Code used </h3>
 <xmp>
@@ -216,10 +211,11 @@ ORDER BY year, month
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7/Cyclists?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
+August had the highest monthly average for cyclist deaths. 2017 had the highest yearly average of 8 deaths.
 
- 
-</p>
 <br>
+</p>
+
 
 <h3> Code used </h3>
 <xmp>
@@ -256,10 +252,10 @@ ORDER BY year, month
 https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
-
- 
-</p>
+May and August had the highest monthly average deaths of motorists with 2013 having the highest yearly average of 33 motorist deaths.
 <br>
+</p>
+
 
 <h3> Code used </h3>
 <xmp>
@@ -290,16 +286,19 @@ ORDER BY year, month
 </xmp>
 
 
-<h3> Question 9:Looking at monthly and yearly averages of deaths of persons in Brooklyn. </h3>
+<h3> Question 9: Looking at monthly and yearly averages of deaths of persons in Brooklyn. </h3>
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <p> 
-
+August and December had the highest monthly average of person deaths, where 67 person deaths were recorded for each individual year from 2013-2015. 
  
-</p>
 <br>
+</p>
+
+<p> Pedestrians are the most at risk, especially during the festive season. </p>
+
 
 <h3> Code used </h3>
 <xmp>
