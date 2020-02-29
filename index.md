@@ -15,9 +15,8 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
-<iframe src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450'></iframe>
-
-
+ 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <xmp>
 SELECT
@@ -35,16 +34,13 @@ ORDER BY
   deaths DESC
 </xmp>
  
-  
-  <!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div>
-
- <!--   Tableau javascript API   -->
-  <script src="https://clientreporting.theinformationlab.co.uk/javascri
-
 
 
 <h3> QUESTION 2: What is the most common factor in a motor vehicle collision in Brooklyn? </h3>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2/Q2?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+
+
 <xmp>
  SELECT
   borough,
@@ -62,11 +58,16 @@ ORDER BY
   num_collisions DESC
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div class='tableauPlaceholder' id='viz1582908098039' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BrooklynAnalysis&#47;Q2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BrooklynAnalysis&#47;Q2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BrooklynAnalysis&#47;Q2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1582908098039');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-  
 
-<h3> QUESTION 3: What is the most common time for a motor vehicle collision in Brooklyn from 2017-07-01? </h3>
+<h3> QUESTION 3.1: What is the most common time for a motor vehicle collision to occur in Brooklyn from 2017-07-01? </h3>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3/Q3?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+
+
+<h3> QUESTION 3.2: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01? </h3>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_2/Q32?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+
 <xmp>
 SELECT
   borough,
@@ -89,13 +90,12 @@ ORDER BY
   num_collisions DESC 
 </xmp>
   
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
+
+<h3> QUESTION 4: What vehicle types are responsbile for most accidents? </h3>
 
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4/Q4?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
 
-<h3> QUESTION 4: What vehicle types responsbile for most accidents? </h3>
 <xmp>
 SELECT
   borough,
@@ -112,10 +112,13 @@ ORDER BY
   num_collisions DESC
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
 
-<h3> Question 5: Collision vehicle by date and time since 2017-09-01 </h3>
+<h3> Question 5: Collision vehicle by time of day since 2017-09-01 </h3>
+
+ 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5/Q5?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
+
+
  <xmp> 
 SELECT
   borough, 
@@ -134,12 +137,12 @@ ORDER BY
   num_collisions DESC
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
-
-  
-<h3> Question 6: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for pedestrians </h3>
  
+<h3> Question 6: Looking at monthly and yearly averages of deaths of pedestrians in Brooklyn. </h3>
+
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6/Pedestrians?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
+
 <xmp>
 WITH totals AS 
 (
@@ -167,10 +170,10 @@ WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
+<h3> Question 7: Looking at monthly and yearly averages of deaths of cyclists in Brooklyn. </h3>
 
-<h3> Question 7: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for cyclists </h3>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7/Cyclists?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 <xmp>
 WITH totals AS 
@@ -198,12 +201,13 @@ FROM   averages
 WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
 </xmp>
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
 
 
-  
-<h3> Question 8: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for motorists </h3>
+<h3> Question 8: Looking at monthly and yearly averages of deaths  of motorists in Brooklyn.  </h3>
+
+<iframe seamless frameborder="0" src="
+https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+
 
 <xmp>
 WITH totals AS 
@@ -232,11 +236,12 @@ WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
+
+<h3> Question 9:Looking at monthly and yearly averages of deaths of persons in Brooklyn. </h3>
 
 
-<h3> Question 9: Looking at total deaths, montly averages and yearly averages for the most dangerous borough (Brooklyn) for persons </h3>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
+
 
 <xmp>
 WITH totals AS 
@@ -266,5 +271,4 @@ ORDER BY year, month
 
 </xmp>
 
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div> 
+
