@@ -12,10 +12,11 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
-test
+<p> 
 
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -40,10 +41,11 @@ ORDER BY
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2/Q2?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -68,20 +70,22 @@ ORDER BY
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3/Q3?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 
 <h3> QUESTION 3.2: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01? </h3>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_2/Q32?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -112,10 +116,11 @@ ORDER BY
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4/Q4?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -140,10 +145,11 @@ ORDER BY
  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5/Q5?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
  <xmp> 
@@ -170,10 +176,11 @@ ORDER BY
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6/Pedestrians?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>   
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -208,10 +215,11 @@ ORDER BY year, month
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7/Cyclists?:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -247,11 +255,11 @@ ORDER BY year, month
 <iframe seamless frameborder="0" src="
 https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
-
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
@@ -287,10 +295,11 @@ ORDER BY year, month
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> 
 
-<h4> 
+<p> 
 
-
-</h4>
+ 
+</p>
+<br>
 
 <h3> Code used </h3>
 <xmp>
