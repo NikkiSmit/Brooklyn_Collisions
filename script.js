@@ -1,10 +1,14 @@
-//Tableau Embed function
-function initViz() {
-  url = "https://public.tableau.com/views/BrooklynAnalysis/Q1?:display_count=y&:origin=viz_share_link",
-  options = {
-      hideToolbar: true,
-      width: "100%",
-      height: "200px",
+function initializeViz() {
+  // JS object that points at empty div in the html
+  var placeholderDiv = document.getElementById("tableauViz");
+  // URL of the viz to be embedded
+  var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
+  // An object that contains options specifying how to embed the viz
+  var options = {
+    width: '600px',
+    height: '600px',
+    hideTabs: true,
+    hideToolbar: true,
   };
-  viz = new tableau.Viz(tabMonthlySales, url, options);
+  viz = new tableau.Viz(placeholderDiv, url, options);
 }
