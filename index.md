@@ -11,7 +11,7 @@ layout: default
 What are my ideas for reducing accidents in Brooklyn? </h1>
 
 
-<h2> Data source used: https://bigquery.cloud.google.com/table/bigquery-public-data:new_york.nypd_mv_collisions?tab=preview </h2>
+<h3> Data source used: https://bigquery.cloud.google.com/table/bigquery-public-data:new_york.nypd_mv_collisions?tab=preview </h3>
 
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
