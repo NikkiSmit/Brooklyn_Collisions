@@ -3,7 +3,7 @@ layout: default
 ---
 <style>
    p{
-     align=”center”;
+     align=”justify”;
     }
  </style>
 
