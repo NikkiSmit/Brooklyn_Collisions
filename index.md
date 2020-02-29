@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-
-
-
-<h1> Analyzing data on New York motor vehicle collisions to answer the following question: 
-What are my ideas for reducing accidents in Brooklyn? </h1>
-
-
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
  
