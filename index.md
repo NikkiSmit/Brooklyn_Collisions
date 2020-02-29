@@ -10,7 +10,7 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1000' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1000' height = '650' scrolling='yes' ></iframe> 
 
 <p> 
 The top three most dangerous streets in Brooklyn are Atlantic Avenue, Flatbush Avenue and Linden Boulevard. These streets resulted in the greatest number of deaths since 2012. If we just look at the 2 most recent years (2017-2018), Atlantic Avenue is still the number one most dangerous street, followed by Flatlands Avenue. 
@@ -168,7 +168,7 @@ ORDER BY
 <h3> Question 6: Looking at monthly and yearly averages of deaths of pedestrians in Brooklyn. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6/Pedestrians?:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6/Pedestrians?:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe>   
 
 <p> 
 November to January as well as July have the highest monthly averages of pedestrian deaths, with 2015 being the worst year yet, having a yearly average of 46 deaths. 
@@ -208,7 +208,7 @@ ORDER BY year, month
 <h3> Question 7: Looking at monthly and yearly averages of deaths of cyclists in Brooklyn. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7/Cyclists?:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7/Cyclists?:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 August had the highest monthly average for cyclist deaths. 2017 had the highest yearly average of 8 deaths.
@@ -248,7 +248,7 @@ ORDER BY year, month
 
 <h3> Question 8: Looking at monthly and yearly averages of deaths  of motorists in Brooklyn.  </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 May and August had the highest monthly average deaths of motorists with 2013 having the highest yearly average of 33 motorist deaths.
@@ -288,7 +288,7 @@ ORDER BY year, month
 <h3> Question 9: Looking at monthly and yearly averages of deaths of persons in Brooklyn. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 August and December had the highest monthly average of person deaths, where 67 person deaths were recorded for each individual year from 2013-2015. 
