@@ -16,7 +16,8 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
 
-<iframe src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
+<iframe src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450'></iframe>
+
 
 <xmp>
 SELECT
