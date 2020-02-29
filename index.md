@@ -135,7 +135,7 @@ ORDER BY
 
 <h3> Question 5: Collision vehicle by time of day since 2017-09-01 </h3>
 
- 
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5_15829902547950/Q5?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '450' scrolling='yes' ></iframe>   
 
 <p> 
