@@ -10,7 +10,7 @@ What are my ideas for reducing accidents in Brooklyn? </h1>
 <h3> QUESTION 1: What are the most dangerous streets for motor vehicle collisions in Brooklyn? </h3>
 
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '800' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 The top three most dangerous streets in Brooklyn are Atlantic Avenue, Flatbush Avenue and Linden Boulevard. These streets resulted in the greatest number of deaths since 2012. If we just look at the 2 most recent years (2017-2018), Atlantic Avenue is still the number one most dangerous street, followed by Flatlands Avenue. 
