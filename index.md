@@ -39,7 +39,7 @@ ORDER BY
 
 <h3> QUESTION 2: What is the most common collision factor in a motor vehicle collision in Brooklyn? </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 The top 3 causes for a motor vehicle collision that resulted in the greatest number of deaths since 2012 are Driver Inattention/Distraction, failure to yield right-of-way and backing unsafely. If we look at the time period 2017-2018, the top 2 causes remain the same.
@@ -106,7 +106,7 @@ ORDER BY
 <h3> QUESTION 4: What vehicle types are responsbile for most accidents? </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4_15829894499970/Q4?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q4_15829894499970/Q4?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '800' scrolling='yes' ></iframe>    
 
 <p> 
 It is clear to see that a passenger vehicle and a sport utility/ station wagon are the two main vehicle types responsible for the most number of accidents. Passenger vehicles are responsible for 58.85% of collisions and sport utility/ station wagons are responsible for 24.89% of collisions, over the entire period since 2012. If we filter the data to look at 2017-2018 data, we see the same results (passenger vehicles (53.4%) and sport utility/ station wagons (34.74%)). 
@@ -136,7 +136,7 @@ ORDER BY
 <h3> Question 5: Collision vehicle by time of day since 2017-09-01 </h3>
 
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5_15829902547950/Q5?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q5_15829902547950/Q5?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '900' height = '450' scrolling='yes' ></iframe>   
 
 <p> 
 In the graph above, the yellow line respresents passenger vehicles and the red line represents sport utility/ station wagons. These two vehicle types are clearly distinguishable from the other types of vehicles when it comes to bringing in the most number of collisions and the peak time for these collisions to occur is between 4-5pm. 
