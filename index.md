@@ -69,7 +69,7 @@ ORDER BY
 
 <h3> QUESTION 3: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01?  </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_C/Q3_?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1000' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_C/Q3_?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 The most common time of day for a motor vehicle collision to occur is at 4pm, which brings in 7.7% of total collisions. If we look at 4pm in the table, we see that the beginning of the week (Mon-Wed) is the most likley time for a collision to occur. Furthermore, when we apply the filter to include only the top three collision factors as discussed above, then 4pm, Monday to Wednesday, still remains the unsafest time as there is a higher chance of being in a motor vehicle collision.
