@@ -330,3 +330,21 @@ ORDER BY year, month
 </xmp>
 
 
+<h3> Conclusion </h3>
+<p> 
+The results show that there is a pressing need to take action in order to improve road safety behaviour in Brooklyn. It is important to consider that there are a number of external factors at play e.g. weather conditions, that can be considered. However, the data suggests that the main issue is due to human error. I would suggest that, in addition to the hard implemented policies already implemented, soft policies should be also implemented. 
+ 
+In behavioural economics there is a term called 'nudging' which is a technique used to change someone’s behaviour in an easy and cost efficient way, without limting the number of choices available. We often see it described as “non-enforced compliance” or "libertarian paternalism”. 
+
+
+Suggestions:
+
+Studies from M.I.T. research  have shown that Chrysler have developed the 'Driver Advocate' which is a sytem on your steering wheel that helps reduce driver ditsraction by allowing the driver to limit information coming from mobile phones, navigation systems and also sounds warning messages.
+
+In addition, reasecrhers at I.B.M., have devloped what is called 'Smart Passenger'. This technology makes use of voice commands to operate all distracting tasks while on the road. Moreover, the car also develops a profile for each driver and keeps them alert by initiating a conversation. If the response of the driver is delayed or incorrect then this suggests that the driver is distracted or tired, which will trigger the car to open a window or spray cold water.
+
+Lastly, better education and less tolerance of reckless behavior on the roads would be simpler way to fight driver distraction.
+
+SOURCE: https://www.nytimes.com/2003/12/26/travel/driving-cars-that-nudge-you-to-drive-more-safely.html
+</p>
+
