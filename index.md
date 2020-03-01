@@ -5,12 +5,14 @@ layout: default
    p{
      align=”justify”;
     }
- </style>
- 
- div {
+   
+    div {
   text-align: justify;
   text-justify: inter-word;
 }
+ </style>
+ 
+
 
 <h3> QUESTION 1: What are the most dangerous streets in Brooklyn? </h3>
 
