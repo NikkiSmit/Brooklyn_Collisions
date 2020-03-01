@@ -333,11 +333,11 @@ ORDER BY year, month
    
 The results show that there is an urgent call to action to improve road safety behaviour in Brooklyn, NY. It is important to consider that there are a number of external factors at play e.g. weather conditions, that can be considered. However, the data suggests that the main issue is due to human error. I would suggest that, in addition to the hard policies already implemented, soft policies should implemented or revised. 
  
-In behavioural economics there is a term called 'nudging', which is a technique used to change someone’s behaviour in an easy and cost efficient way, without limting their number of choices available. We often see it described as “non-enforced compliance” or "libertarian paternalism”. Nudge theory focuses on influencing behaviour by understanding that people make irrational decisions and are influenced by their instincts, mental short cuts and past experiences. 
+In behavioural economics there is a term called 'nudging', which is a technique used to change someone’s behaviour in an easy and cost efficient way, without limting their number of choices available (Sunstein, 2009). We often see it described as “non-enforced compliance” or "libertarian paternalism” (Sunstein, 2009). Nudge theory focuses on influencing behaviour by understanding that people make irrational decisions and are influenced by their instincts, mental short cuts and past experiences (Sunstein, 2009). 
 
-The UK Government set up a Behavioural Insights Team in 2010 in order to improve public services to enable people to make ‘better choices for themselves’. Brooklyn should have their own Behavioural Insights team that can focus on implementing effective soft policies. There are a number of case studies that made use of clever ways to subconsciously make drivers slow down or pay attention by using nudge theory, namely, in Scotland (), Preston () and Chicago (). 
+The UK Government set up a Behavioural Insights Team in 2010 in order to improve public services to enable people to make ‘better choices for themselves’. Brooklyn should have their own Behavioural Insights team that can focus on implementing effective soft policies. There are a number of case studies that made use of clever ways to subconsciously make drivers slow down or pay attention by using nudge theory, namely, in Scotland (Clearview Intelligence, 2013), Preston (Moskvitch, 2014) and Chicago (Moskvitch, 2014). 
 
-The data concluded that distraction, failure to yield right-of-way and backing unsafely were the three main reasons causing collisions. Government can use use incentives (e.g. tax rebates) to encourage car manufacturers to make use of intelligent transport systems (ITS) that can improve road safety. Specifically when it comes to passenger vehicles and sport utility/station wagons. Alternatively, taxes can be implemented on car manufacturers that do not make use of ITS. 
+The data concluded that distraction, failure to yield right-of-way and backing unsafely were the three main reasons causing collisions. Government can use use incentives (e.g. tax rebates) to encourage car manufacturers to make use of intelligent transport systems (ITS) that can improve road safety (Stanton and Salmon, 2009). Specifically when it comes to passenger vehicles and sport utility/station wagons. Alternatively, taxes can be implemented on car manufacturers that do not make use of ITS. 
 
 Lastly, better education and less tolerance of reckless behaviour on the roads would be a simpler way to fight driver distraction. This must include knowing which time of year and day one needs to be more alert for pedestrians, cyclists, motorists and people in general.
 
@@ -352,7 +352,9 @@ Lastly, better education and less tolerance of reckless behaviour on the roads w
   <li>Clearview Intelligence. (2013). Installation helps reduce traffic speed through Fairlie, Scotland. [online] Available at: https://www.clearview-intelligence.com/case-studies/a78-fairlie-traffic-lights.</li>
   <li>Moskvitch, K. (2014). The road design tricks that make us drive safer. [Blog] BBC Future. Available at: https://www.bbc.com/future/article/20140417-road-designs-that-trick-our-minds.</li>
   <li>Patton, P. (2003). DRIVING; Cars That Nudge You to Drive More Safely. The New York Times, [online] p.9. Available at: https://www.nytimes.com/2003/12/26/travel/driving-cars-that-nudge-you-to-drive-more-safely.html.</li>
+ <li> Stanton, N. and Salmon, P. (2009). Human error taxonomies applied to driving: A generic driver error taxonomy and its implications for intelligent transport systems. Elsevier, 47(2), pp.227-237. </li>
   <li>Sunstein, C. (2009). Nudge. [S.I.]: Penguin Publishing Group.</li>
+   
 </ul>  
 
 
