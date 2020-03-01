@@ -6,6 +6,11 @@ layout: default
      align=”justify”;
     }
  </style>
+ 
+ div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 <h3> QUESTION 1: What are the most dangerous streets in Brooklyn? </h3>
 
