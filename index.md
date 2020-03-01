@@ -5,11 +5,7 @@ layout: default
    p{
      align=”justify”;
     }
-   
-    div {
-  text-align: justify;
-  text-justify: inter-word;
-}
+ 
  </style>
  
 
@@ -17,7 +13,7 @@ layout: default
 <h3> QUESTION 1: What are the most dangerous streets in Brooklyn? </h3>
 
  
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '650' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '650' scrolling='yes' ></iframe> 
 
 <p> 
 Since 2012, the top three most dangerous streets resulting in the most deaths in Brooklyn are Atlantic Avenue, Flatbush Avenue and Linden Boulevard. Recent data shows Atlantic Avenue and Flatlands Avenue remain the most affected areas.
@@ -46,7 +42,7 @@ ORDER BY
 
 <h3> QUESTION 2: What are the most common causes of motor vehicle collisions in Brooklyn? </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '650' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q2_15829872733250/Q2?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '650' scrolling='yes' ></iframe> 
 
 <p> 
 The top 3 causes for a motor vehicle collision that resulted in the greatest number of deaths since 2012 are Driver Inattention/Distraction, failure to yield right-of-way and backing unsafely. If we look at the time period 2017-2018, the top 2 causes remain the same.
@@ -76,7 +72,7 @@ ORDER BY
 
 <h3> QUESTION 3: What is the most common time and day for a motor vehicle collision to occur in Brooklyn from 2017-07-01?  </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_C/Q3_?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q3_C/Q3_?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 The most common time of day for a motor vehicle collision to occur is at 4pm, which brings in 7.7% of total collisions. If we look at 4pm in the table, we see that the beginning of the week (Mon-Wed) is the most likley time for a collision to occur. Furthermore, when we apply the filter to include only the top three collision factors as discussed above, then the conclusion remains same that 4pm from Monday to Wednesday still remains the unsafest time, as there is a higher chance of being in a  motor vehicle collision.
@@ -174,7 +170,7 @@ ORDER BY
 <h3> Question 6: Monthly and yearly averages of deaths of pedestrians in Brooklyn due to vehicle collisions. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6_15830637556340/Pedestrians?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6_15830637556340/Pedestrians?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe>   
 
 <p> 
    
@@ -216,7 +212,7 @@ ORDER BY year, month
 <h3> Question 7: Monthly and yearly averages of deaths of cyclists in Brooklyn due to vehicle collisions. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7_15830642282040/Cyclists?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q7_15830642282040/Cyclists?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 August had the highest monthly average for cyclist deaths, where 2017 had the highest yearly average of 8 cyclist deaths.  However, May to September, which is from the end of spring to the emd of summer, are popular months for cycling and so drivers need to be more aware of cyclists during these months. 
@@ -256,7 +252,7 @@ ORDER BY year, month
 
 <h3> Question 8: Monthly and yearly averages of deaths of motorists in Brooklyn due to vehicle collisions.  </h3>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q8/Motorists?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 May and August had the highest monthly average deaths of motorists with 2013 having the highest yearly average of 33 motorist deaths.
@@ -296,7 +292,7 @@ ORDER BY year, month
 <h3> Question 9: Monthly and yearly averages of deaths of persons in Brooklyn due to vehicle collisions. </h3>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q9/Persons?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '800' scrolling='yes' ></iframe> 
 
 <p> 
 August and December had the highest monthly average of person deaths, where 67 person deaths were recorded for each individual year from 2013-2015. 
