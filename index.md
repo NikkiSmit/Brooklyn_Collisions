@@ -345,4 +345,15 @@ Lastly, better education and less tolerance of reckless behaviour on the roads w
 <br>
 </p>
 
+<h3> References </h3>
+
+<ul style="list-style-type:circle;">
+  <li>C, M. (2020). Giving road safety a ‘nudge’. [Blog] Available at: https://www.clearview-intelligence.com/blog/giving-road-safety-a-nudge.</li>
+  <li>Clearview Intelligence. (2013). Installation helps reduce traffic speed through Fairlie, Scotland. [online] Available at: https://www.clearview-intelligence.com/case-studies/a78-fairlie-traffic-lights.</li>
+  <li>Moskvitch, K. (2014). The road design tricks that make us drive safer. [Blog] BBC Future. Available at: https://www.bbc.com/future/article/20140417-road-designs-that-trick-our-minds.</li>
+  <li>Patton, P. (2003). DRIVING; Cars That Nudge You to Drive More Safely. The New York Times, [online] p.9. Available at: https://www.nytimes.com/2003/12/26/travel/driving-cars-that-nudge-you-to-drive-more-safely.html.</li>
+  <li>Sunstein, C. (2009). Nudge. [S.I.]: Penguin Publishing Group.</li>
+</ul>  
+
+
 
