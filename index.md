@@ -336,7 +336,7 @@ ORDER BY year, month
 <ul style="list-style-type:circle;">
   <li>Were there any events happening in Brooklyn that could have caused more congestion?</li>
   <li>Were there any exogenous factors that could influence the our results e.g. extreme weather conditions for that year?</li>
-  <li>Was it during school holidays? This could influence whether a decrease/increase in injuries/deaths was due to families going away on holiday or foreigners come to NY on holiday</li>
+  <li>Was it during school holidays? This could influence whether a decrease/increase in injuries/deaths was due to families going away on holiday or foreigners come to NY on holiday.</li>
 </ul>
 
 
