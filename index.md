@@ -170,7 +170,9 @@ ORDER BY
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Q6_15830637556340/Pedestrians?:display_count=y&publish=yes&:origin=viz_share_link" width = '1200' height = '800' scrolling='yes' ></iframe>   
 
 <p> 
-November to January as well as July have the highest monthly averages of pedestrian deaths, with 2015 being the worst year yet, having a yearly average of 46 deaths. 
+   
+   
+It is mainly in winter, November to January, that has the highest monthly average of pedestrian deaths. However, this average picks up again in the summer during the month of July. 2015 was so far the worst year, having a yearly average of 46 pedestrian deaths. 
  
 <br>
 </p>
@@ -326,6 +328,14 @@ WHERE  borough = 'BROOKLYN'
 ORDER BY year, month
 
 </xmp>
+
+<h3> Further considerations when looking at data over time </h3>
+
+<ul style="list-style-type:circle;">
+  <li>Were there any events happening in Brooklyn that could have caused more congestion?</li>
+  <li>Were there any exogenous factors that could influence the our results e.g. extreme weather conditions for that year?</li>
+  <li>Was it during school holidays? This could influence whether a decrease/increase in injuries/deaths was due to families going away on holiday or foreigners come to NY on holiday</li>
+</ul>
 
 
 <h3> Conclusion </h3>
