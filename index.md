@@ -335,7 +335,7 @@ ORDER BY year, month
 
 <ul style="list-style-type:circle;">
   <li>Were there any events happening in Brooklyn that could have caused more congestion?</li>
-  <li>Were there any exogenous factors that could influence the our results e.g. extreme weather conditions for that year?</li>
+  <li>Were there any exogenous factors that could influence the results e.g. extreme weather conditions for that year?</li>
   <li>Was it during school holidays? This could influence whether a decrease/increase in injuries/deaths was due to families going away on holiday or foreigners come to NY on holiday.</li>
 </ul>
 
@@ -343,9 +343,9 @@ ORDER BY year, month
 <h3> Conclusion </h3>
 <p> 
    
-The results show that there is an urgent call to action to improve road safety behaviour in Brooklyn, NY. It is important to consider that there are a number of external factors at play e.g. weather conditions, that can be considered. However, the data suggests that the main issue is due to human error. I would suggest that, in addition to the hard policies already implemented, soft policies should implemented or revised. 
+The results show that there is an urgent call to action to improve road safety behaviour in Brooklyn, NY. It is important to consider that there are a number of external factors at play e.g. weather conditions, economic or political events that could have resulted in more or less people being in Brooklyn at the time etc. However, the data suggests that the main issue is due to human error. I would advise that, in addition to the hard policies already implemented, soft policies should be implemented or revised. 
  
-In behavioural economics there is a term called 'nudging', which is a technique used to change someone’s behaviour in an easy and cost efficient way, without limting their number of choices available (Sunstein, 2009). We often see it described as “non-enforced compliance” or "libertarian paternalism” (Sunstein, 2009). Nudge theory focuses on influencing behaviour by understanding that people make irrational decisions and are influenced by their instincts, mental short cuts and past experiences (Sunstein, 2009). 
+In behavioural economics there is a term called 'nudging', which is a technique used to change someone’s behaviour in an easy and cost efficient way, without limiting their number of choices available (Sunstein, 2009). We often see it described as “non-enforced compliance” or "libertarian paternalism” (Sunstein, 2009). Nudge theory focuses on influencing behaviour by understanding that people make irrational decisions and are influenced by their instincts, mental short cuts and past experiences (Sunstein, 2009). 
 
 The UK Government set up a Behavioural Insights Team in 2010 in order to improve public services to enable people to make ‘better choices for themselves’. Brooklyn should have their own Behavioural Insights team that can focus on implementing effective soft policies. There are a number of case studies that made use of clever ways to subconsciously make drivers slow down or pay attention by using nudge theory, namely, in Scotland (Clearview Intelligence, 2013), Preston (Moskvitch, 2014) and Chicago (Moskvitch, 2014). 
 
